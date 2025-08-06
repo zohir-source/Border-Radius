@@ -35,9 +35,6 @@ Alat sederhana untuk melihat pratinjau efek properti `border-radius` pada elemen
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
-
-1. Clone repository ini:
-
-```bash
-git clone https://github.com/username-kamu/border-radius-previewer.git
+## 🚀 Informasi kontak
+Email: zohirzed23@gmail.com
+Instagram: @itsalter23
